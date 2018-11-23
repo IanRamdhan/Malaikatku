@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Malaikatku</string>
+    <string-array name="nama_malaikat">
+        <item>Malaikat Jibril</item>
+        <item>Malaikat Mikail</item>
+        <item>Malaikat Israfil</item>
+        <item>Malaikat Izrail</item>
+        <item>Malaikat Munkar</item>
+        <item>Malaikat Nakir</item>
+        <item>Malaikat Raqib</item>
+        <item>Malaikat Atid</item>
+        <item>Malaikat Malik</item>
+        <item>Malaikat Ridwan</item>
+    </string-array>
+    <string-array name="tugas_malaikat">
+        <item>MALAIKAT JIBRIL
+
+            Malaikat yang ditugaskan untuk menyampaikan wahyu kepada Rasul-rasul Allah dan juga ditugaskan untuk meniupkan ruh pada setiap janin pada saat didalam kandungan Ibu.
+“Dan tidaklah kami (jibril) turun, kecuali denga perintah Tuhanmu, Kepunyaan-Nya lah apa-apa yang ada dihadapan kita, apa-apa yang dibelakng kuta, dan apa-apa yang ada di antara keduany adan tidaklah Tuhanmu lupa”(QS Mawyam:64)
+“(Dialah) yang Maha tinggi derajat- Nya, yang mempunyai Arsy, yang emngutus Jibril dengan (membawa) perintah-Nya kepada siapa yang dikehendaki-Nya diantara hamba-hamba Nya supaya dia memperingatkan (manusia) tentang hari pertemuan (hari kiamat).” (QS al Mukmin: 15)</item>
+        <item>MALAIKAT MIKAIL
+            Malaikat yang ditugaskan yang ditugaskan memberikan rizki kepada makhluk yang ada didunia, serta malaikat Mikail juga yang bertugas mengatur hujan, angin, serta tanaman.</item>
+        <item>MALAIKAT ISRAIL
+            Malaikat yang ditugaskan unuk meniup sangkakala pada hari kiamat kelak.</item>
+        <item>MALAIKAT IZRAIL
+            Malaikat yang ditugaskan untuk mencabut seluruh makhluk hidup.</item>
+        <item>MALAIKAT MUNKAR
+            Malaikat Munkar dan Nakir ini memiliki tugas yang sama yaitu menanyai perkara manusia dialam kubur semasa hidupnya.</item>
+        <item>MALAIKAT NAKIR
+            Tugasnya sama dengan Malaikat Munkar, yaitu menanyai perkara manusia dialam kubur semasa hidupnya.</item>
+        <item>MALAIKAT RAQIB
+            Malaikat yang ditugaskan untuk mencatat amalan baik manusia semasa di dunia.</item>
+        <item>MALAIKAT ATID
+            Malaikat yang ditugaskan untuk mencatat amalan buruk manusia semasa di dunia.
+“Tiada satu ucapan pun pang diucapkannya melainkan ada di dekatnya malaikat pengawas yang selalu hadir.” (QS Qaf: 18).</item>
+        <item>MALAIKAT MALIK
+            Malaikat yang ditugaskan menjaga pintu Neraka Allah Ta’ala.
+
+“Hai orang-orang yang beriman, peliharalah dirimu dan kelmrgamu dari api neraka yang bahan bakarnya adalah manusia dan batu, penjaganya malaikat-malaikat yang kasar, yang keras, yang tidak mendurhakai Allah terhadap apa yang diperintahkan-Nya kepada mereka dan selalu mengerjakan apa yang diperintahkan.” (QS At Tahrim: 6).</item>
+        <item>MALAIKAT RIDWAN
+            Malaikat yang ditugaskan menjaga pintu Surga Allah Ta’ala.
+
+“Dan sampaikanlah berita gembira kepada mereka yang beriman dan berbuat baik, bahwa bagi mereka disediakan surga-surga yang mengalir sungai-sungai di dalamnya. Setiap mereka diberi rezeki buah-buahan dalam surga-surga itu, mereka mengatakan “Inilah yangpernah diberikan kepada kami dahulu”. Mereka diberi buah-buahan yang serupa dan untuk mereka di dalamnya ada istri-istri yang suci dan mereka kekal di dalamnya.” (QS Al Baqarah: 25).</item>
+    </string-array>
+</resources>
